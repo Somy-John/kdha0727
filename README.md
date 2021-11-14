@@ -1,6 +1,6 @@
 ### Hi 👋
 
-My name is Dongha Kim‼️
+My name is Dongha Kim :)
 
 ### Find Me
 
