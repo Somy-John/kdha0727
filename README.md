@@ -114,12 +114,12 @@ My name is Dongha Kim :)
 <!-- <div align="center"> -->
 ### Github stats
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=kdha0727&show_icons=true&theme=default&hide_border=false&locale=en)](#)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=kdha0727&show_icons=true&theme=default&hide_border=false&locale=en)
 
 <!-- <div align="center"> -->
 ### Most Common Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kdha0727&layout=compact)](#)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kdha0727&layout=compact)
 
 ---
 
