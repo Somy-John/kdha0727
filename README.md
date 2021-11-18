@@ -114,7 +114,7 @@ My name is Dongha Kim :)
 <!-- <div align="center"> -->
 ### Github stats
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=kdha0727&show_icons=true&theme=default&hide_border=false&locale=en)](https://github-readme-stats.vercel.app/)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=kdha0727&show_icons=true&theme=default&hide_border=false&locale=en)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- <div align="center"> -->
 ### Most Common Languages
