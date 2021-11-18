@@ -109,14 +109,18 @@ My name is Dongha Kim :)
 * Research Mentoring for Beginners
 * Understanding of Medicine
 
-----
+---
 
 <!-- <div align="center"> -->
 ### Github stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=kdha0727&show_icons=true&theme=default&hide_border=false&locale=en)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=kdha0727&show_icons=true&theme=default&hide_border=false&locale=en)](https://github-readme-stats.vercel.app/)
+
+<!-- <div align="center"> -->
+### Most Common Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kdha0727&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
 ![Counter](https://komarev.com/ghpvc/?username=kdha0727&style=flat-square&label=Profile%20Views)
-
