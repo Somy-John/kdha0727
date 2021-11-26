@@ -35,6 +35,7 @@ My name is Dongha Kim :)
 * [Digital Health Hackathon 2021](https://www.digitalhealthhack.org/) Excellence Award
 * [MEDICAL HACK 2021](https://www.all-con.co.kr/uni_contest/467239) Excellence Award
 * Intel Data Visualization Contest, Encouragement Award
+* 한이음 공모전 입선
 
 ---
 
