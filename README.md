@@ -15,8 +15,8 @@ My name is Dongha Kim :)
 
 ### Education
 
-* Yonsei Univ. College of Medicine: Pre-medical Course
-* 2020.3. ~ Present
+* [Yonsei Univ. College of Medicine](https://medicine.yonsei.ac.kr/) - Pre-medical Course (2020.3. ~ Present)
+* DaeDong High School, Busan (2017.3. ~ 2020.2.)
 
 ### Researches
 
